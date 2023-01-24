@@ -2,7 +2,6 @@
     box-sizing: border-box;
     font-family: 'EB Garamond', serif;
     scroll-behavior: smooth;
-    background-color: #EAE7DC;
 }
 
 a{
@@ -23,7 +22,6 @@ body {
     justify-content: space-between;
     align-items: center;
     color: black;
-    background-color: #D8C3A5;
 }
 
 .name {
@@ -102,6 +100,7 @@ body {
     justify-content: center;
     width: 100%;
     min-height: 100vh;
+    background-color: #EAE7DC;
 }
 
 .roll{
