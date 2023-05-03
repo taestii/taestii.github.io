@@ -242,6 +242,10 @@ body {
     font-family: 'Unbounded', cursive;
 }
 
+#education .header{
+    padding-top: 5%;
+}
+
 .ab{
     display: flex;
     flex-direction: row;
